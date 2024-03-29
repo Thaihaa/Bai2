@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|d:\\l\u1EADp tr\u00ECnh web\\bai 2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|d:\\l\u1EADp tr\u00ECnh web\\bai 2\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|solutionrelative:views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|d:\\l\u1EADp tr\u00ECnh web\\bai 2\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|d:\\l\u1EADp tr\u00ECnh web\\bai 2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|d:\\l\u1EADp tr\u00ECnh web\\bai 2\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|solutionrelative:views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|d:\\l\u1EADp tr\u00ECnh web\\bai 2\\models\\mockcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|solutionrelative:models\\mockcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|d:\\l\u1EADp tr\u00ECnh web\\bai 2\\models\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|solutionrelative:models\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|d:\\l\u1EADp tr\u00ECnh web\\bai 2\\models\\mockproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|solutionrelative:models\\mockproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|d:\\l\u1EADp tr\u00ECnh web\\bai 2\\models\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|solutionrelative:models\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|d:\\l\u1EADp tr\u00ECnh web\\bai 2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|d:\\l\u1EADp tr\u00ECnh web\\bai 2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D03B60-3BFF-4A2A-B935-4C18608A4ACE}|Bai 2.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1818862802:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T01:41:01.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Update.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Views\\Product\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T01:40:24.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Views\\Product\\Display.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Display.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Views\\Product\\Display.cshtml",
+              "RelativeToolTip": "Views\\Product\\Display.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwC0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T01:39:10.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwCYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T01:37:58.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwEgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:31:36.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MockCategoryRepository.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Models\\MockCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Models\\MockCategoryRepository.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Models\\MockCategoryRepository.cs",
+              "RelativeToolTip": "Models\\MockCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:30:51.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Models\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Models\\ICategoryRepository.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Models\\ICategoryRepository.cs",
+              "RelativeToolTip": "Models\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:30:21.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MockProductRepository.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Models\\MockProductRepository.cs",
+              "RelativeDocumentMoniker": "Models\\MockProductRepository.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Models\\MockProductRepository.cs",
+              "RelativeToolTip": "Models\\MockProductRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwDQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:29:46.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Models\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Models\\IProductRepository.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Models\\IProductRepository.cs",
+              "RelativeToolTip": "Models\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:29:09.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:27:29.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\Bai 2\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:26:11.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
